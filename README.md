@@ -19,4 +19,5 @@ A Vokabel Trainer for yourself, if you want to train your english and german Voc
   <li>Pagination for vocabulary with assets (public/img) to edit and delete</li>
   <li>String comparison</li>
   <li>Normal Trainer with the possibility to rotate the german and english word</li>
+  <li>Home Controller with "en" and "de" messages</li>
 </ul>
